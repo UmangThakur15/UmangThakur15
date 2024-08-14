@@ -9,7 +9,7 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 </p>
 
 
-## 📫 Connect with Me(Open to Relocation 🇺🇸)
+## 📫 Connect with Me
 
 <p align="center">
     <a href="https://umangthakur.info/" target="_blank">
