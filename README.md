@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<h1 align="center">Hi 👋, I'm Umang Thakur</h1>
+<h1 align="center">Hi 👋, I'm Umang Thakur 🇺🇸</h1>
 <p align="justify">Experienced Software Engineer adept at problem-solving and driving quality results. Proficient in software design, development,
 and maintenance to enhance organizational productivity. Seeking opportunities to leverage expertise for organizational growth.</p>
 <!-- markdownlint-enable MD033 -->
