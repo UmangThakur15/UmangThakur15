@@ -8,6 +8,7 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full-Stack+Developer;Backend+Developer;Software+Developer" alt="Typing SVG">
 </p>
 
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -18,9 +19,10 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>&nbsp;
     <a href="mailto:thakur.u@northeastern.edu" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
     </a>&nbsp;
 </p>
+
 <!-- 
 ## 📚 Academic Background
 
