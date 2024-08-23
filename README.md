@@ -36,7 +36,7 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### **2. Databases** (Proficiency: 90%)
+### Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![PostGreSQL](https://img.shields.io/badge/PostGreSQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![PLSQL](https://img.shields.io/badge/PLSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
@@ -46,14 +46,14 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-### **3. Front-End Development** (Proficiency: 85%)
+### Front-End Development:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) 
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
 
-### **4. Cloud and DevOps** (Proficiency: 73%)
+### Cloud and DevOps:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) 
 [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
@@ -63,7 +63,7 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 
-### **5. Tools and Platforms** (Proficiency: 80%)
+### Tools and Platforms:
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
@@ -73,13 +73,13 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
-### **6. Testing Frameworks** (Proficiency: 70%)
+### Testing Frameworks:
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/) 
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Mockito](https://img.shields.io/badge/Mockito-9C27B0?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
 [![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
 
-### **7. Backend Development** (Proficiency: 75%)
+### Backend Development:
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) 
 [![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)](https://microservices.io/)
