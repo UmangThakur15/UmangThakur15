@@ -25,7 +25,7 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 
 ## 🛠️ Languages and Tools
 
-### **1. Programming Languages** (Proficiency: 95%)
+### Programming Languages:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/) 
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
