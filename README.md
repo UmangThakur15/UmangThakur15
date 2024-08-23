@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <h1 align="center">Hi 👋, I'm Umang Thakur</h1>
-<p align="justify">Experienced Software Engineer adept at problem-solving and driving quality results. Proficient in software design, development,
-and maintenance to enhance organizational productivity. Seeking opportunities to leverage expertise for organizational growth.</p>
+<p align="justify">Hi, I am Umang Thakur, a multifaceted Software Engineer with expertise in Software Development, Data Engineering, Cloud Computing and Web Development. With extensive experience in cutting-edge technologies, I have consistently driven innovation and improved efficiency across diverse projects. From developing scalable applications to streamlining complex workflows, I’ve been deeply involved in technological advancement.
+</p>
 <!-- markdownlint-enable MD033 -->
 
 <p align="center">
