@@ -23,37 +23,6 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
     </a>&nbsp;
 </p>
 
-<!-- 
-## 📚 Academic Background
-
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Master's in Computer Science</strong>, Northeastern University, Boston, MA</span>
-  <span>Sep 2022 - Dec 2024</span>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Bachelor's in Computer Science</strong>, Chitkara University, Punjab, India</span>
-  <span>Aug 2016 - July 2020</span>
-</div>
-
-## 🏆 Work Experience
-
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Software Engineer Intern</strong> at OXmaint Inc., Sunnyvale, CA</span>
-  <span>June 2024 - Aug 2024</span>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Software Engineer Intern</strong> at IpserLab LLC, Mountain View, CA</span>
-  <span>Jan 2024 - May 2024</span>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Software Engineer</strong> at Ocwen Financial Solutions APAC, Bengaluru, India</span>
-  <span>May 2019 - Dec 2021</span>
-</div> -->
-
-
 ## 🛠️ Languages and Tools
 
 ### Programming Languages:
@@ -72,33 +41,44 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 [![PostGreSQL](https://img.shields.io/badge/PostGreSQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) 
-[![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/elasticsearch/)
+[![ElasticSearch](https://img.shields.io/badge/Elastic%20Search-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/elasticsearch/) 
+[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
-### Tools and Platforms:
+### Cloud and DevOps:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/) 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/) 
 [![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
-[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/) 
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
-[![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/) 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/) 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+
+### Tools and Platforms:
+[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) 
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
+[![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)](https://www.elastic.co/kibana/) 
+[![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
 ### Frameworks:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/) 
-[![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/) 
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/) 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) 
-[![Hadoop](https://img.shields.io/badge/Hadoop-66CC99?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/) 
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/) 
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Mockito](https://img.shields.io/badge/Mockito-9C27B0?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+[![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
+[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)](https://microservices.io/)
+[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 
 ## 📈 GitHub Stats
 
@@ -110,7 +90,3 @@ and maintenance to enhance organizational productivity. Seeking opportunities to
     <img src="https://github-readme-stats.vercel.app/api?username=UmangThakur15&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=gruvbox" alt="Umang's GitHub Stats"  width="49%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangThakur15&layout=compact&hide_title=true&hide_border=true&theme=gruvbox" alt="Umang's Streak Stats" width="49%">
 </p>
-
-
-
-
