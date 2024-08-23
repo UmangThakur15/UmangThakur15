@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <h1 align="center">Hi 👋, I'm Umang Thakur</h1>
-<p align="justify">Multifaceted Software Engineer with expertise in Software Development, Data Engineering, Web Development and Cloud Computing.
+<p align="justify">Multifaceted Software Engineer with expertise in Software Development, Data Engineering, Web Development and Cloud Computing. Let’s connect and discuss how we can turn your ideas into successful realities!
 </p>
 <!-- markdownlint-enable MD033 -->
 
