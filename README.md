@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full-Stack+Developer;Backend+Developer;Software+Developer;Problem+Solver" alt="Typing SVG">
 </p>
-<img src="https://komarev.com/ghpvc/?username=UmangThakur15" alt="UmangThakur15"/>
+
 
 ## 📫 Connect with Me
 
@@ -98,3 +98,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=UmangThakur15&layout=compact&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&theme=gruvbox" alt="Umang's GitHub Stats"  width="49%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmangThakur15&layout=compact&hide_title=true&hide_border=true&theme=gruvbox" alt="Umang's Streak Stats" width="49%">
 </p>
+<img src="https://komarev.com/ghpvc/?username=UmangThakur15" alt="UmangThakur15"/>
