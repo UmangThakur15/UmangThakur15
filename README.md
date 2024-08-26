@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full-Stack+Developer;Backend+Developer;Software+Developer;Problem+Solver" alt="Typing SVG">
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=UmangThakur15" alt="UmangThakur15"/>
 
 ## 📫 Connect with Me
 
